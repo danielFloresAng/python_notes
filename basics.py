@@ -22,5 +22,32 @@
 
 # /// sep= ---> The sep keyword function separates its outputted arguments with a characther given. 
 
-print('eva','00','Rei',sep='_')
+# print('eva','00','Rei',sep='_')
       #Output: eva_00_Rei
+
+#___________________________________________________________________________________________________
+# THE INPUT FUNCTION: The input() function is able to read data entered by the user and to return the same data to the running program.
+
+# We can pass an argument to the input function to show a message for the user, by doing this, is more clear wath kind of data needs to be input.
+
+
+# user_name = input('Insert your user name:')
+# print('User name:',user_name)
+
+# user_email = input('Insert yout email')
+# print('Email: ', user_email)
+
+
+#  /////  -------------------------------------------------------------------
+#int() and float() functions could work with the input() function but only accept integeres and float data values, like their name specified.
+
+# Ej. 1:
+# user_integer = int(input('Type your number: '))
+# user_float = float(input('Typer your float: '))
+# print('Your integer: ', user_integer, '\n', 'Your float: ', user_float)
+
+# Ej. 2:
+# user_number = float(input('Type your number: '))
+# result = user_number ** 2
+# print(user_number, 'to the power of 2 is: ', result)
+
