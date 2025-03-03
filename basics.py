@@ -51,3 +51,22 @@
 # result = user_number ** 2
 # print(user_number, 'to the power of 2 is: ', result)
 
+#  /////  -------------------------------------------------------------------
+# Python always chooses the more economical form of the number's presentation, and you should take this into consideration when creating literals. 
+# Ej.:
+# print(0.0000000000000000000001) #output --> 1e-22
+
+#  /////  -------------------------------------------------------------------
+# An operator is a symbol of the programming language, which is able to operate on the values.
+
+# Operators which are associated with the most widely recognizable arithmetic operations:
+# +
+# -
+# *
+# /
+# //
+# %
+# **
+
+print(1 * 4)
+
