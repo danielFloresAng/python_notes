@@ -68,5 +68,55 @@
 # %
 # **
 
-print(1 * 4)
+#  /////  -------------------------------------------------------------------
+# COMPARISON OPERATORS
 
+# //// Equality (==)
+
+# Ej.1:
+# num_a = 3
+# num_b = 3
+# print(num_a == num_b) #output -> True
+
+# Ej.2:
+# text_1 = "Ja"
+# text_2 = "Nein"
+# comparison_text = text_1 == text_2
+# print(comparison_text) # Output -> False
+
+
+# //// Inequality (!=)
+
+# Ej.1:
+# num_a = 3
+# num_b = 3
+# print(num_a != num_b) #output -> False
+
+# Ej.2:
+# text_1 = "Ja"
+# text_2 = "Nein"
+# comparison_text = text_1 != text_2
+# print(comparison_text) # Output -> True
+
+
+# //// Greater than / greater than or equal (>  / >=)
+
+# Ej.1:
+# print(23 > 23) # Output -> False
+# print(42 > 23) # Output -> True
+
+# Ej.2:
+# print(24 >= 24) # Output -> True
+# print(24 >= 23) # Output -> True
+# print(24 >= 28) # Output -> False
+
+# //// Less than / less than or equal (<  / <=)
+
+# Ej.1:
+# print(23 < 23) # Output -> False
+# print(42 < 23) # Output -> True
+
+# Ej.2:
+# print(24 >= 24) # Output -> True
+# print(24 >= 23) # Output -> True
+# print(24 >= 28) # Output -> False
