@@ -85,7 +85,7 @@
 # print(comparison_text) # Output -> False
 
 
-# //// Inequality (!=)
+# //// Inequality - not equal operator (!=)
 
 # Ej.1:
 # num_a = 3
@@ -120,3 +120,8 @@
 # print(24 >= 24) # Output -> True
 # print(24 >= 23) # Output -> True
 # print(24 >= 28) # Output -> False
+
+
+n = int(input('Type, fucker: '))
+
+# if n < 100:
