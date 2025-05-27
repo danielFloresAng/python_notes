@@ -122,6 +122,13 @@
 # print(24 >= 28) # Output -> False
 
 
-n = int(input('Type, fucker: '))
+# ///// Conditions and conditional execution
 
-# if n < 100:
+n = float(input('Type a number:'))
+
+if n >= 100:
+      print('You pass')
+elif n < 100 and n > 70:
+      print('You have another chance')
+else: 
+      print('Sorry, try tomorrow')
