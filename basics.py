@@ -121,14 +121,15 @@
 # print(24 >= 23) # Output -> True
 # print(24 >= 28) # Output -> False
 
-
+# ___________________________________________________________
 # ///// Conditions and conditional execution
 
-n = float(input('Type a number:'))
+# n = float(input('Type a number:'))
 
-if n >= 100:
-      print('You pass')
-elif n < 100 and n > 70:
-      print('You have another chance')
-else: 
-      print('Sorry, try tomorrow')
+# if n >= 100:
+#       print('You pass')
+# elif n < 100 and n > 70:
+#       print('You have another chance')
+# else: 
+#       print('Sorry, try tomorrow')
+
